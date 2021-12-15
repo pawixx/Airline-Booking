@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "airline-booking-b3a67",
+    "private_key_id": "28406280b99511a114c475379be6cc2ec897c14d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcWEP6B0y4vutc\neHpJBr+JytqEXzhODo0XnfzBwF93RRVeSu/2+ijfMHex+GxklFfQ31vgvLoUumsv\nSuWh1NUn96jH+DkKiBitKsgmXcns0BNIBqNB6KDBks2FZhykZrcUnY7DPmv38mXT\ncS9Uhpm2dSQwopeAOncwSfzedwXoSnsLEUvMSCzjKgC7kh/VUJTYfY0dw+Xbt287\nuNPZxmDdGJzJ6E7U3g8+mn1fO3nbACQp3fVnLhCZUQGHZ/r/xW/NteJ39AbNn+la\n5W3h/I3YxMCUWOnpPOKd2UCuBRjk+t3Hc39z9cSMcNI5FlU/bgacH2419u4VFUC3\nWMWpzxx3AgMBAAECggEABbNMKzIX8IZ5g2IbJ015L1d3lyr3nRT3vPw0KoZOlMUu\njcUSscEWO2kDfDgwD4y/FO0H5w5KhJX1cYB8FeXyLaZgf4YD4mfq6mlsacWyppFB\nmrcvPahzMAuftbTu52mdVEGYYnMEscIjR03RqXXM5fOocaOD/ZdkIB0afKv/SaRa\n9/ef33XhgR4635sX3r8r9TGCcNXalkSYF4rODrHhtsdJEK9pR8r2rsOvxOYJ0DeB\nS4QQG5F7dnJWfFF5VaJwFcBndXqNjmhqU5rnAE6I8C435/Bj1H2IOvA9mYyFdxQh\ntEAzxYPG2PR92GBjwVe3ZRwtXaQGxWaUCWpBFJdkLQKBgQDLIyPAEMVM/0FZrY8x\nxGCzoGrjobJB/AFFiUXMZphJdZx7cVEkk0BnFNtw8qG3j5BrXoaqrSpxoRSNC8/9\nZClnjLyiZm6asfdLWlGL2JDosvypiUt7M/9qFa6p0cpUFt4GsUrx0M+EuEeWmleN\n+nw8l1X6z7y9NximlY0ytmJZFQKBgQDFB9giyMTR9njAJFpNKnv9rYzjn0juKMIt\nUzeO7DIsHiaZcq4z7iGYw8R0jPnj6GjBvOSXGZ9yMdfBSDoEPRZADRFVSzZaRjHH\naGu/1pS0jU+pGvvjEd+Yuq8O39vz06xfDc/XwHIdrmm/8kkhL0CrPGHoMkc3n91F\njKGvQEwqWwKBgEy/rQ0vCOxrcIxqV7TM5mBXlqsEd64YgX59O+LbTGRMzF+TU74G\n6IlJxxMoiNMqqbz3TNgFbwjZfENCGEY7Zq1Z7hdJrjZCURWmPTMiErXoki+X0O3u\nmmzBXmmI+vHEZgSPTaqJYy5Y1atgCv54iiH2Z6TIgh3XSDgAPwXPBN91AoGAYka8\nXvVHfvbyWdyIEi9bszfKq4q6xNgdqp/0eVyE1g6f8DAMhiiEJ3+WURA0YKJ/Bgui\n9V85cas809Kj5ZNWstIR0Dp4vOSAVddWz1RHzhsiHdYwx50Vq0eKo9+zBVaShsML\n5bC++uERLEW8hkncdszihP/3F96sbtFroE9w7jsCgYEAoWuBgFx8LHd2Am1iLwNO\nhDve+ibIwUniKy946sPBwBIhaCJ/KbrWbaB3VnAAD20fqNirWcrWMy31ex4tr6qn\n1aLcbQLeL3eLc/YOt4kzvmym6rwoGexxlEzLMl4EUEF2hk5xwjru6FEnqvibFb5f\n97/bX12ddoWjdobZhpuYvjY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-turik@airline-booking-b3a67.iam.gserviceaccount.com",
+    "client_id": "110480030113898952670",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-turik%40airline-booking-b3a67.iam.gserviceaccount.com"
+  }
